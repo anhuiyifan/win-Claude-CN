@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak*
+
+# Node / Web
+node_modules/
+dist/
+.vite/
+
+# Rust / Tauri
+src-tauri/target/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+*.tmp
+.vscode/
+.idea/
