@@ -18,3 +18,12 @@ Thumbs.db
 *.tmp
 .vscode/
 .idea/
+# Unrelated scripts
+original_project/
+*jump*
+*screen*.png
+*test*.png
+*find*.py
+wechat_jump*
+test_auto*
+test_parse*
