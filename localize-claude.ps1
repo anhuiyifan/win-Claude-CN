@@ -273,7 +273,7 @@ Write-Host "=================================================" -ForegroundColor 
 Write-Host ""
 Write-Info "提示："
 Write-Info "  - 现在可以直接启动 Claude 客户端查看中文效果。"
-Write-Info "  - 如果界面未刷新，请在 Claude 窗口中按 Ctrl + R。"
+Write-Info "  - 提示：必须彻底退出并重启 Claude 客户端才能生效。"
 Write-Info "  - 原始官方文件已自动安全备份至: $backupBase"
 Write-Host ""
 
